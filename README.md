@@ -6,6 +6,7 @@
 Greetings! I'm a computer science student with a passion for technology and a strong desire to continuously expand my knowledge. 
 
 In the domain of web design, I find joy in creating visually appealing and user-friendly websites. My focus extends beyond just coding, it involves crafting intuitive user interfaces, ensuring responsiveness across devices, and optimizing for a seamless browsing experience. I believe that a well-designed website can leave a lasting impression on users and enhance the overall online presence of businesses and individuals.
+
 Graphic design is another domain that captivates my creative side. From designing eye-catching logos to crafting stunning visuals for digital and print media, I thrive on the ability to communicate messages and stories through visual elements. The power of a well-designed graphic can be transformative, conveying emotions, ideas, and branding in a captivating manner.
 
 With a foundation in web development,graphic design, I'm always on the lookout for fresh opportunities to learn and grow. If you're interested in collaborating on innovative projects that make a real impact, I'm all in.
