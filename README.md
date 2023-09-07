@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm M Keerthana,
 
-<!--
-**Mkeer/Mkeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Passionate Learner | Web Developer | Graphic Designer |
 
 ## About
