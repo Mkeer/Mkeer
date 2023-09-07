@@ -52,7 +52,7 @@ With a foundation in web development,graphic design, I'm always on the lookout f
 
 ## Projects
 #### You can Find My Works Here:
-[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mkeer?tab=repositories)
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-keerthana-00412b24a/)
