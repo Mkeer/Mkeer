@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm M Keerthana,
 
-<img src = "https://www.ujudebug.com/wp-content/uploads/2022/07/web-development-content-animated.gif" width = "500" height ="400" >
+<img src = "https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = "500" height ="400" >
 <br>
 
 ## Passionate Learner | Web Developer | Graphic Designer |
